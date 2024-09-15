@@ -1,4 +1,4 @@
-# Dynamic KPI Dashboard
+# Dynamic Sales KPI Dashboard
 
 ## Overview
 This repository contains a Tableau dashboard that visualizes key performance indicators (KPIs) for . The dashboard is designed to be dynamic, allowing users to interact with the data and gain insights into the performance metrics.
